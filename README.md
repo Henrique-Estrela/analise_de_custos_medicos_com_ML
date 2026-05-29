@@ -145,7 +145,7 @@ Ao final da execução o projeto salva o bundle treinado em:
 
 ## Integrantes
 
-Preencha aqui com os nomes do grupo.
+Henrique Estrela Santos  
 
 ## Conclusão final
 
